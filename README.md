@@ -1,2 +1,1 @@
-# GitHubTEST
-Learning about GitHub
+# GitHubTEST 1
